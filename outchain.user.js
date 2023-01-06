@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         outchain
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  显示论坛上的音乐外链播放器
 // @author       Aozaki
-// @match        https://www.keyfc.net/bbs/showtopic*
+// @match        https://*.keyfc.net/bbs/showtopic*
+// @match        https://*.keyfc.com/bbs/showtopic*
 // @grant        none
 // ==/UserScript==
 

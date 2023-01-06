@@ -4,8 +4,10 @@
 // @version      0.2
 // @description  编辑音乐外链
 // @author       Aozaki
-// @match        https://www.keyfc.net/bbs/postreply.aspx?*
-// @match        https://www.keyfc.net/bbs/editpost.aspx?*
+// @match        https://*.keyfc.net/bbs/postreply.aspx?*
+// @match        https://*.keyfc.net/bbs/editpost.aspx?*
+// @match        https://*.keyfc.com/bbs/postreply.aspx?*
+// @match        https://*.keyfc.com/bbs/editpost.aspx?*
 // @grant        none
 // ==/UserScript==
 
